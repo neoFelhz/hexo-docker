@@ -2,5 +2,5 @@
 
 使用 Docker 快速构建 Hexo。
 
-- 使用 node:8.1.1-alpine 镜像构建
-- 集成 git  hexo-cli gulp
+- 基于 node:6.1.1-alpine 构建
+- 集成 `git` `hexo-cli` `gulp`
